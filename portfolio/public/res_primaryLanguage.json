@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Josh Easley. :) I'm working with React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "YO!",
+      "description": "👋 I'm Josh Easley. :) I'm working with React and MongoDB at the moment. I've written a lot of code in my day, but I'm hoping to be a Software Developer in the near future.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "SQL Server"
           }
         ]
       },
