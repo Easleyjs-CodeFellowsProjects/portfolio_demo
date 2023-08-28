@@ -29,19 +29,9 @@
           "level": "95"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
@@ -49,8 +39,8 @@
           "level": "85"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "SQL Server",
+          "class": "devicon-mssqlserver-original",
           "level": "60"
         }
       ]
