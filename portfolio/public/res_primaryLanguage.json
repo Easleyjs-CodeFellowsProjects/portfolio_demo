@@ -49,30 +49,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Wells Fargo Auto",
+        "title": "Business Systems Consultant",
+        "years": "10.2013 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Tableau / Sharepoint Online"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript"
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SQL"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Scripps Health",
+        "title": "PC Tech",
+        "years": "01.2012 - 08.2013",
         "mainTech": [
-          "Angular 7/8"
+          "Access / HTML / JS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript"
+          "Javascript"
         ]
       }
     ]
